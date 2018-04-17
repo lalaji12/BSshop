@@ -155,6 +155,7 @@ public class ManagementController {
 	public String handleCategorySubmission(@ModelAttribute Category category) {
 		//add the new category
 		categoryDAO.add(category);
+		
 		return "redirect:/manage/products?operation=category";
 	}
 	
