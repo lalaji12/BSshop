@@ -352,7 +352,7 @@ if ($categoryForm.length) {
 					},
 					description : {
 
-						rerquired : true
+						required : true
 					}
 
 				},
