@@ -283,7 +283,7 @@
 						</div>
 						</div>
 						
-						
+						 
 						<div class="form-group">
 						
 						<label for="category_description" class="control-label col-md-4">Category Description</label>
