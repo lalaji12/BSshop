@@ -78,6 +78,7 @@
 
 			</c:if>
 
+
 			<!-- Load only when user clicks contact -->
 			<c:if
 				test="${userClickAllProducts==true or userClickCategoryProducts==true}">
@@ -100,6 +101,7 @@
 		<!-- Footer comes here -->
 
 		<%@include file="./shared/footer.jsp"%>
+
 
 		<!-- /.container -->
 
